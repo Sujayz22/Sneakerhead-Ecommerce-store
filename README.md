@@ -23,9 +23,6 @@
 <li>Payment Processing: We leverage the power of Stripe to ensure secure and hassle-free payment transactions.</li>
 </ul><ul>
 <li>Admin Dashboard (Strapi): Manage your product inventory, update content, and view order details through the Strapi headless CMS.</li>
-</ul><h5>Steps</h5><ul>
-<li>Clone the Repository: git clone https://github.com/your-username/shoe-store.git</li>
-</ul><ul>
 <li>Follow the instructions in the readme of the respective folders.</li>
 </ul><h2>Project Status</h2>
 <hr><p>In Progress⏳</p>

@@ -26,3 +26,17 @@
 <li>Follow the instructions in the readme of the respective folders.</li>
 </ul><h2>Project Status</h2>
 <hr><p>In Progress⏳</p>
+<h3>SnapShots</h3>
+<hr>
+<a href="https://ibb.co/rx3jCp3"><img src="https://i.ibb.co/9bhDF4h/Picture6.png" alt="Picture6" border="0"></a>
+<a href="https://ibb.co/mRY1MYp"><img src="https://i.ibb.co/2FLmfLJ/Picture5.png" alt="Picture5" border="0"></a>
+<a href="https://ibb.co/R2GmYRM"><img src="https://i.ibb.co/H7LsB5M/Picture4.png" alt="Picture4" border="0"></a>
+<a href="https://ibb.co/FHgmZLV"><img src="https://i.ibb.co/Z2WG4pm/Picture7.png" alt="Picture7" border="0"></a>
+<a href="https://ibb.co/tcWtXpq"><img src="https://i.ibb.co/mtMw859/Picture3.png" alt="Picture3" border="0"></a>
+<br/>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/KWgwjnc/Picture2.png" alt="Picture2" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/Jqb0LW3/Picture1.png" alt="Picture1" border="0"></a>
+
+
+
+
